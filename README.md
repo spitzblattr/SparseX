@@ -1,2 +1,2 @@
-# SparseX
-vllm implementation for paper《SparseX: Efficient Segment-Level KV Cache Sharing for Interleaved LLM Serving》
+🚧🚧🚧 WORKING 🚧🚧🚧
+We are currently refactoring the code and expect to release it before 6/30.
